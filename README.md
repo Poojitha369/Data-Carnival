@@ -10,7 +10,7 @@ This portfolio showcases real-world data analytics projects using SQL, Python, P
 - Business Insights & Reporting
 
 ## 📁 Projects
-- Sales Performance Dashboard (SQL, Power BI)
+- Water Quality Dataset (SQL, Power BI)
 - Airline Tweets - Sentiment Analysis (Python)
 - Forecast Household Energy Consumption (Python, OpenCV)
 
