@@ -10,9 +10,9 @@ This portfolio showcases real-world data analytics projects using SQL, Python, P
 - Business Insights & Reporting
 
 ## 📁 Projects
-- Hotel Revenue Analysis (SQL, Power BI)
-- Sales Performance Dashboard (Python)
-- Customer Churn Analysis (Python, Tableau)
+- Sales Performance Dashboard (SQL, Power BI)
+- Airline Tweets - Sentiment Analysis (Python)
+- Forecast Household Energy Consumption (Python, OpenCV)
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/lakshmi-poojitha-challagali-6771abbb
